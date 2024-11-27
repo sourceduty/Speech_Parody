@@ -23,7 +23,7 @@ Parodized Version: "Why so cereal?"
 "The Godfather" (1972)
 ```
 Don Vito Corleone: "I'm gonna make him an offer he can't refuse."
-Parodized Version: "I'm gonna make him an offer he can't ignore—free pizza for life."
+Parodized Version: "I'm gonna make him an offer he can't accept."
 ```
 
 #
