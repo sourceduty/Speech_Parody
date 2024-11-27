@@ -16,14 +16,14 @@ Parodized Version: "They may take our Wi-Fi, but they'll never take our Netflix 
 
 "The Dark Knight" (2008)
 ```
-"Why so serious?"
-"Why so cereal? Try pancakes instead!"
+The Joker: "Why so serious?"
+The Joker: "Why so cereal?"
 ```
 
 "The Godfather" (1972)
 ```
-"I'm gonna make him an offer he can't refuse."
-"I'm gonna make him an offer he can't ignore—free pizza for life."
+Don Vito Corleone: "I'm gonna make him an offer he can't refuse."
+Don Vito Corleone: "I'm gonna make him an offer he can't ignore—free pizza for life."
 ```
 
 #
